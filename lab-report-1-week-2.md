@@ -18,10 +18,12 @@
 - When i changed the code in WhereAmI.java and copied it into the remote server, it took me about 1.2 seconds for the code to run.
 ## 5. SSH Keys
 ![Image](https://snipboard.io/2h7pG5.jpg)
-- In order for me to set up ssh, I needed to use the command ssh-keygen and then I needed to save it on the computer.
+- In order for me to set up ssh, I needed to use the command ssh-keygen and then save it on the computer.
 
 ![Image](https://snipboard.io/Svmanw.jpg)
-- Since I use Windows to set up ssh, I needed to open my Powershell as the administrator and set up the ssh-agent. After setting up, ssh, I am able to log into my CSE 15L account without my password.
+- Since I use Windows to set up ssh, I needed to open my Powershell as the administrator and set up the ssh-agent. After setting up ssh, I am able to log into my CSE 15L account without my password.
 ## 6. Optimizing Remote Running
 ![Image](https://snipboard.io/gXTyYu.jpg)
-- 
+- I found out that the command ssh (account name) "ls" will list the home directory on the remote server.
+- Also, semicolons can help a person run multiple lines. For instance, I used the command "cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI" to perform multiple java and javac commands.
+- Though I have been doing this for awhile, I learned that  can use the up command on the keyboard to use any past commands that I called in the terminal.
