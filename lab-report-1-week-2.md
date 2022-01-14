@@ -8,3 +8,6 @@
 - In order for me to log onto my account, I needed to find my CSE 15L account and change the password.
 - It also took me awhile to figure out that when typing out my password on the terminal, it will not show for security. I initially thought that there was something wrong with my account when I typed it into the terminal.
 ## 3. Trying Some Commands
+![Image](https://snipboard.io/ySOv0R.jpg)
+- The main commands that I tried were cd ~, cd, ls -lat, and ls -a.
+- What I learned was that cd ~ does not do anything while in home directory and 
