@@ -10,4 +10,10 @@
 ## 3. Trying Some Commands
 ![Image](https://snipboard.io/ySOv0R.jpg)
 - The main commands that I tried were cd ~, cd, ls -lat, and ls -a.
-- What I learned was that cd ~ does not do anything while in home directory and 
+- What I learned was that cd ~ does not do anything while in home directory and ls makes a long list.
+- Additionally, I tried finding the directory but an error popped up and said that something was wrong with my syntax.
+## 4. Moving Files with scp
+![Image](https://snipboard.io/XdjNc4.jpg)
+- In order to use scp, I first copied the code from WhereAmI.java and then I had to login again using the command scp.
+- When i changed the code in WhereAmI.java and copied it into the remote server, it took me about 1.2 seconds for the code to run.
+## 5. SSH Keys
