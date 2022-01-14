@@ -1,7 +1,7 @@
 # CSE 15L Lab Report 1
 ## 1. Installing VScode
 ![Image](https://i.snipboard.io/ksPA7d.jpg)
-- Before Lab 1, I already had VScode downloaded when I took CSE 11 last fall.
+- Before Lab 1, I already had VScode downloaded from when I took CSE 11 last fall.
 - To download VScode on the computer, one goes to the site and downloads it from there.
 ## 2. Remotely Connecting
 ![Image](https://snipboard.io/X4wZa7.jpg)
