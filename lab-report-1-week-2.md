@@ -5,7 +5,7 @@
 - To download VScode on the computer, one goes to the [link](https://code.visualstudio.com/) and downloads it from there.
 ## 2. Remotely Connecting
 ![Image](https://snipboard.io/X4wZa7.jpg)
-- In order for me to log onto my account, I needed to find my CSE 15L account and change the password.
+- In order for me to log onto my account, I needed to find my CSE 15L account using the [link](https://sdacs.ucsd.edu/~icc/index.php) and change the password.
 - It also took me awhile to figure out that when typing out my password on the terminal, it will not show for security. I initially thought that there was something wrong with my account when I typed it into the terminal.
 ## 3. Trying Some Commands
 ![Image](https://snipboard.io/ySOv0R.jpg)
@@ -21,7 +21,7 @@
 - In order for me to set up ssh, I needed to use the command ssh-keygen and then save it on the computer.
 
 ![Image](https://snipboard.io/Svmanw.jpg)
-- Since I use Windows to set up ssh, I needed to open my Powershell as the administrator and set up the ssh-agent. After setting up ssh, I am able to log into my CSE 15L account without my password.
+- Since I use Windows to set up ssh, I needed to follow directions on this [link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation) and open my Powershell as the administrator to set up the ssh-agent. After setting up ssh, I am able to log into my CSE 15L account without my password.
 ## 6. Optimizing Remote Running
 ![Image](https://snipboard.io/gXTyYu.jpg)
 - I found out that the command ssh (account name) "ls" will list the home directory on the remote server.
