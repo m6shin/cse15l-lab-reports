@@ -26,4 +26,4 @@
 ![Image](https://snipboard.io/gXTyYu.jpg)
 - I found out that the command `ssh (account name) ls` will list the home directory on the remote server.
 - Also, semicolons can help a person run multiple lines. For instance, I used the command `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI` to perform multiple java and javac commands.
-- Logging in, changing the code, and running the file took me about 2 minutes and the number of keystrokes
+- Logging in, changing the code, and running the file took me about 2 minutes and I had like 7 keystrokes.
