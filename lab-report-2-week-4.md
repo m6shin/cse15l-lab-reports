@@ -1,8 +1,13 @@
 # CSE 15L Lab Report 2
 ## 1. Code Change 1
+- Screenshot of code change difference:
 ![Image](https://snipboard.io/IZRnA1.jpg)
--
+- Link for [test file](https://github.com/m6shin/markdown-parse/blob/main/test-file2.md)
+- Symptom
+![Image](https://snipboard.io/mcZpsX.jpg)
 ## 2. Code Change 2
+- Screenshot of code change difference:
 ![Image](https://snipboard.io/ymbvoQ.jpg)
+- Link for [test file]()
 ## 3. Code Change 3
 ![Image](https://snipboard.io/L5FcU2.jpg)
