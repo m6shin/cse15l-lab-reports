@@ -12,12 +12,13 @@ Markdown:
 
 [`code]`](ucsd.edu)
 ```
-- Expected output: [%60google.com, google.com, ucsd.edu]
+- Expected output: `[%60google.com, google.com, ucsd.edu]`
 - JUnit Test for Snippet 1
 ![Image](https://snipboard.io/eGahNm.jpg)
 - My Test Output
 ![Image](https://i.snipboard.io/DnvkFG.jpg)
 - Reviewed Repository Test Output
+![Image](https://snipboard.io/7pzq4R.jpg)
 
 
 ## Snippet 2
@@ -29,11 +30,13 @@ Markdown:
 
 [some escaped \[ brackets \]](example.com)
 ```
-- Expected output: [a.com, a.com(()), example.com]
+- Expected output: `[a.com, a.com(()), example.com]`
 - JUnit Test for Snippet 2
 ![Image](https://snipboard.io/TZ8ILg.jpg)
 - My Test Output
 ![Image](https://i.snipboard.io/AqHDR0.jpg)
+- Reviewed Repository Test Output
+![Image](https://snipboard.io/pmVKZW.jpg)
 
 ## Snippet 3
 Markdown:
@@ -63,4 +66,4 @@ And there's still some more text after that.
 
 And then there's more text
 ```
-- Expected output: 
+- Expected output: `[https://ucsd-cse15l-w22.github.io/]`
