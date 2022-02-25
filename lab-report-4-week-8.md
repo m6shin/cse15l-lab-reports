@@ -31,6 +31,9 @@ Markdown:
 ```
 - Expected output: [a.com, a.com(()), example.com]
 - JUnit Test for Snippet 2
+![Image](https://snipboard.io/TZ8ILg.jpg)
+- My Test Output
+![Image]()
 
 ## Snippet 3
 Markdown:
