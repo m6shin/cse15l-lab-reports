@@ -15,10 +15,10 @@
 - Expected output: `[%60google.com, google.com, ucsd.edu]`
 ### JUnit Test for Snippet 1
 ![Image](https://snipboard.io/eGahNm.jpg)
-### My Test Output
+### My Test Output for Snippet 1
 ![Image](https://i.snipboard.io/DnvkFG.jpg)
 -  Here is the part of the JUnit output that shows the test failure.
-### Reviewed Repository Test Output
+### Reviewed Repository Test Output for Snippet 1
 ![Image](https://snipboard.io/7pzq4R.jpg)
 - Here is the part of the JUnit output that shows the test failure.
 ## Snippet 2
@@ -33,10 +33,10 @@
 - Expected output: `[a.com, a.com(()), example.com]`
 ### JUnit Test for Snippet 2
 ![Image](https://snipboard.io/TZ8ILg.jpg)
-### My Test Output
+### My Test Output for Snippet 2
 ![Image](https://i.snipboard.io/AqHDR0.jpg)
 - Here is the part of the JUnit output that shows the test failure.
-### Reviewed Repository Test Output
+### Reviewed Repository Test Output for Snippet 2
 ![Image](https://snipboard.io/pmVKZW.jpg)
 - Here is the part of the JUnit output that shows the test failure.
 ## Snippet 3
@@ -70,9 +70,9 @@ And then there's more text
 - Expected output: `[https://ucsd-cse15l-w22.github.io/]`
 ### JUnit Test for Snippet 3
 ![Image](https://snipboard.io/9i3KVf.jpg)
-### My Test Output
+### My Test Output for Snippet 3
 ![Image](https://snipboard.io/nl48LG.jpg)
 - Here is the part of the JUnit output that shows the test failure.
-### Reviewed Repository Test Output
+### Reviewed Repository Test Output for Snippet 3
 ![Image](https://snipboard.io/4GpC57.jpg)
 - Here is the part of the JUnit output that shows the test failure.
