@@ -33,7 +33,7 @@ Markdown:
 - JUnit Test for Snippet 2
 ![Image](https://snipboard.io/TZ8ILg.jpg)
 - My Test Output
-![Image]()
+![Image](https://i.snipboard.io/AqHDR0.jpg)
 
 ## Snippet 3
 Markdown:
