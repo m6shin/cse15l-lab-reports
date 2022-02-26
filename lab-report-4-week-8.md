@@ -78,4 +78,4 @@ And then there's more text
 ### Reviewed Repository Test Output for Snippet 3
 ![Image](https://snipboard.io/4GpC57.jpg)
 - Here is the part of the JUnit output that shows the test failure.
-- I think a small line change is good enough 
+- I think a small line change is good enough to account for newlines in brackets and parentheses. I think an if else statement can deal with these line breaks as I do not think these newlines are as complicated as nest parentheses for instance.
