@@ -21,6 +21,7 @@
 ### Reviewed Repository Test Output for Snippet 1
 ![Image](https://snipboard.io/7pzq4R.jpg)
 - Here is the part of the JUnit output that shows the test failure.
+- I think that there will need to be a big code change for the program to account for all related cases that use inline code with backticks. This is because the way my `MarkdownParse.java` file is right now, is not meant to account for links with backticks on them.
 ## Snippet 2
 ### Markdown:
 ```
@@ -39,6 +40,7 @@
 ### Reviewed Repository Test Output for Snippet 2
 ![Image](https://snipboard.io/pmVKZW.jpg)
 - Here is the part of the JUnit output that shows the test failure.
+-  I think that there will need to be a big code change for the program to account for  nest parentheses, brackets, and escaped brackets. This is because none of the tests that we ran for `MarkdownParse.java` had nest parentheses for instance. To account for all these would take a substantial amount of new code.
 ## Snippet 3
 ### Markdown:
 ```
@@ -76,3 +78,4 @@ And then there's more text
 ### Reviewed Repository Test Output for Snippet 3
 ![Image](https://snipboard.io/4GpC57.jpg)
 - Here is the part of the JUnit output that shows the test failure.
+- I think a small line change is good enough 
