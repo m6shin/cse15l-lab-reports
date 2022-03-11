@@ -10,7 +10,7 @@
 ![Image](https://snipboard.io/bRxVAt.jpg)
 - The bug likely is when that when there is an extra `closeParen`, it only takes into account the link that comes before the first `closeParen` and not the link before the last `closeParen`. I think that in order to fix this bug, I need to change the `findCloseParen` method to `findLastCloseParen` in line 35. I think adding a method `findLastCloseParen` may also be helpful as well.
 ## Test 2
-![Image](https://snipboard.io/CS34g2.jpg)
+![Image](https://snipboard.io/xEf5dq.jpg)
 - The primary output was from my markdown-parse, and the latter output was from the given markdown-parse. The difference came from the file 32.md. The given implementation of MarkdownParse.java is right because the output is empty. This is true because if a link contains a space, the space should not be added to the ArrayList, and thus, an empty ArrayList is returned.
 ### Bug
 ![Image](https://snipboard.io/bRxVAt.jpg)
