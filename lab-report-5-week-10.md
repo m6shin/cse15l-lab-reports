@@ -1,6 +1,6 @@
 # CSE 15L Lab Report 5
 ## How I found the tests with different results
-- I ran the script.sh in the given folder and copied and pasted the result into a result.txt file.
+- I ran the `script.sh` in the given folder and copied and pasted the result into a result.txt file.
 - I ran `script.sh` on my implementation of markdown-parse and copied and pasted the result onto another result.txt file.
 - Next, to find the differences, I ran `diff <Path of first result.txt> <Path of second result.txt>` in the terminal.
 ## Test 1
