@@ -14,4 +14,4 @@
 - The primary output was from my markdown-parse, and the latter output was from the given markdown-parse. The difference came from the file 32.md. The given implementation of MarkdownParse.java is right because the output is empty. This is true because if a link contains a space, the space should not be added to the ArrayList, and thus, an empty ArrayList is returned.
 ### Bug from Test 2
 ![Image](https://snipboard.io/bRxVAt.jpg)
-- The bug in my code is that my implementation of MarkdownParse.java is not able to detect spaces in a link and will add the string as a result. I think that in order to fix this bug, it is best that an if else statement needs to be added on line 36 to check if there is a space in the link using the `indexOf` method.
+- The bug in my code is that my implementation of MarkdownParse.java is unable to detect spaces in a link and will add the string as a result. I think that in order to fix this bug, it is best that an if else statement needs to be added on line 36 to check if there is a space in the link using the `indexOf` method.
